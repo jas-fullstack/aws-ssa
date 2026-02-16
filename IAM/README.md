@@ -79,3 +79,16 @@ JSON document defining permissions.
     }
   ]
 }
+```
+## What is difference between IAM user and role?
+
+## What is policy evaluation logic?
+
+## When do we use resource-based policy?
+
+## What is STS?
+
+## Why are roles preferred over access keys?
+
+## What does Explicit Deny do?
+
